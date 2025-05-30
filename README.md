@@ -18,9 +18,10 @@ Requirements
     Python 3.6+
 
     yt-dlp Python package
-    Install with:
+    
+Install with:
 
-pip install yt-dlp
+    pip install yt-dlp
 
 FFmpeg (required for audio conversion and video merging)
 Install via Chocolatey (used in this script):
@@ -35,7 +36,7 @@ Setup
     C:\ProgramData\chocolatey\lib\ffmpeg\tools\ffmpeg\bin
     (or change the ffmpeg_path in the script accordingly).
 
-    Run the script:
+Run the script:
 
     python youtube_downloader_gui.py
 
